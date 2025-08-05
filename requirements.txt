@@ -1,0 +1,17 @@
+# Core AI and Vector Search
+faiss-cpu
+langchain
+langchain-google-genai
+langchain-community
+sentence-transformers
+
+# Document Loaders & HTTP requests
+pypdf
+requests
+
+# API Framework
+fastapi
+uvicorn[standard]
+
+# For environment variables
+python-dotenv
